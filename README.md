@@ -83,9 +83,9 @@ The full pipeline routes each network flow through six sequential layers, with t
 
 | Few-Shot Setting | XGBoost F1 | GraphSAGE F1 | Improvement |
 |---|---:|---:|---:|
-| 1-shot | 0.533 | 0.983 | **+0.450** |
-| 5-shot | 0.533 | 0.989 | **+0.456** |
-| 10-shot | 0.533 | 0.977 | **+0.444** |
+| 1-shot | 0.54 | 0.983 | **+0.450** |
+| 5-shot | 0.56 | 0.989 | **+0.456** |
+| 10-shot | 0.53 | 0.977 | **+0.444** |
 
 ### RAG Impact
 
